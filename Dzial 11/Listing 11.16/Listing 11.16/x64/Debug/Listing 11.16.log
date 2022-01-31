@@ -1,0 +1,5 @@
+﻿  Listing 11.16.cpp
+  stonewt.cpp
+F:\3. Projects\Dział 11\Listing 11.16\Listing 11.16\stonewt.cpp(21,17): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Listing 11.16.vcxproj -> F:\3. Projects\Dział 11\Listing 11.16\x64\Debug\Listing 11.16.exe

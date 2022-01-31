@@ -1,0 +1,6 @@
+﻿  4.cpp
+F:\3. Projects\Dział 8\Ćwiczenia programistyczne\4\4\4.cpp(39,18): error C2665: "show": żadne z przeciążeń 2 nie może konwertować wszystkich typów argumentów
+F:\3. Projects\Dział 8\Ćwiczenia programistyczne\4\4\4.cpp(16,6): message : może to być „void show(const stringy &,int)”
+F:\3. Projects\Dział 8\Ćwiczenia programistyczne\4\4\4.cpp(15,6): message : lub       "void show(char [],int)"
+F:\3. Projects\Dział 8\Ćwiczenia programistyczne\4\4\4.cpp(39,18): message : podczas próby dopasowania listy argumentów "(const char [7])"
+F:\3. Projects\Dział 8\Ćwiczenia programistyczne\4\4\4.cpp(46,29): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych

@@ -1,0 +1,5 @@
+﻿  stonewt.cpp
+F:\3. Projects\Dział 11\Cwiczenia Programistyczne\Cw 5\stonewt.cpp(21,17): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+F:\3. Projects\Dział 11\Cwiczenia Programistyczne\Cw 5\stonewt.cpp(74,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+F:\3. Projects\Dział 11\Cwiczenia Programistyczne\Cw 5\stonewt.cpp(93,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Cw 5.vcxproj -> F:\3. Projects\Dział 11\Cwiczenia Programistyczne\Cw 5\x64\Debug\Cw 5.exe

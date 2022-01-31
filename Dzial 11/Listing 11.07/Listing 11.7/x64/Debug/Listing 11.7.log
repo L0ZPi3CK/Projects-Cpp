@@ -1,0 +1,5 @@
+﻿  Listing 11.7.cpp
+  nag.cpp
+F:\3. Projects\Dział 11\Listing 11.7\Listing 11.7\nag.cpp(56,20): warning C4244: "inicjowanie": konwersja z "double" do "long", możliwa utrata danych
+  Generowanie kodu...
+  Listing 11.7.vcxproj -> F:\3. Projects\Dział 11\Listing 11.7\x64\Debug\Listing 11.7.exe

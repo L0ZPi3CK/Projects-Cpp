@@ -1,0 +1,4 @@
+Marka i model: golf
+Rok: 2010
+Cena wywolawcza w zl: 6000.00
+Cena biezaca: 5478.00

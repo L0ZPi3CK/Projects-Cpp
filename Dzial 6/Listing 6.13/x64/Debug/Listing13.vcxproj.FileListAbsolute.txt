@@ -1,0 +1,2 @@
+C:\Users\Home\source\repos\Listing13\x64\Debug\Listing13.exe
+C:\Users\Home\source\repos\Listing13\x64\Debug\Listing13.pdb

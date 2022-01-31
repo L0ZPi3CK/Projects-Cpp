@@ -1,0 +1,5 @@
+﻿  Listing 11.13.cpp
+F:\3. Projects\Dział 11\Listing 11.13\Listing 11.13\Listing 11.13.cpp(10,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  vect.cpp
+  Generowanie kodu...
+  Listing 11.13.vcxproj -> F:\3. Projects\Dział 11\Listing 11.13\x64\Debug\Listing 11.13.exe

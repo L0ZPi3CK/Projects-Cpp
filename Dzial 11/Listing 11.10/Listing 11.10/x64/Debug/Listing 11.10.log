@@ -1,0 +1,5 @@
+﻿  Listing 11.10.cpp
+  mytime3.cpp
+F:\3. Projects\Dział 11\Listing 11.10\Listing 11.10\mytime3.cpp(55,20): warning C4244: "inicjowanie": konwersja z "double" do "long", możliwa utrata danych
+  Generowanie kodu...
+  Listing 11.10.vcxproj -> F:\3. Projects\Dział 11\Listing 11.10\x64\Debug\Listing 11.10.exe

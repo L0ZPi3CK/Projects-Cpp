@@ -1,0 +1,5 @@
+﻿  Zad.5.cpp
+E:\3. Projects\Dział 6\Ćwiczenia Programistyczne\Zad.5\Zad.5.cpp(15,76): error C2297: "<<": niedozwolone, prawy operand jest typu "const char [8]"
+E:\3. Projects\Dział 6\Ćwiczenia Programistyczne\Zad.5\Zad.5.cpp(15,83): error C2563: niezgodność w liście formalnych parametrów
+E:\3. Projects\Dział 6\Ćwiczenia Programistyczne\Zad.5\Zad.5.cpp(15,83): error C2568: "<<": nie można rozpoznać przeciążenia funkcji
+E:\3. Projects\Dział 6\Ćwiczenia Programistyczne\Zad.5\Zad.5.cpp(15,83): message : może to być „std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”

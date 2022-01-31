@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610035175 source:e:\3. projects\dzia³ 5\1\main.cpp
+	<iostream>
+	<algorithm>
+	<functional>
+

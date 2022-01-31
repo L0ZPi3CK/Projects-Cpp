@@ -1,0 +1,5 @@
+﻿  Cw4.cpp
+  mytime3.cpp
+F:\3. Projects\Dział 11\Cwiczenia Programistyczne\Cw4\mytime3.cpp(55,20): warning C4244: "inicjowanie": konwersja z "double" do "long", możliwa utrata danych
+  Generowanie kodu...
+  Cw4.vcxproj -> F:\3. Projects\Dział 11\Cwiczenia Programistyczne\Cw4\x64\Debug\Cw4.exe

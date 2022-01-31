@@ -1,0 +1,7 @@
+Ogniskowa obiektywu: 22 mm
+   f okularu   powiekszenie
+         8.0              3
+        28.0              1
+        10.0              2
+        20.0              1
+         7.0              3

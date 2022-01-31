@@ -1,0 +1,4 @@
+﻿  Listing 7.4.cpp
+E:\3. Projects\Dział 7\Listing 7.4\Listing 7.4.cpp(14,36): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+E:\3. Projects\Dział 7\Listing 7.4\Listing 7.4.cpp(14,29): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+  Listing 7.4.vcxproj -> E:\3. Projects\Dział 7\Listing 7.4\Debug\Listing 7.4.exe

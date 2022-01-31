@@ -1,0 +1,5 @@
+﻿  Cw 3.cpp
+F:\3. Projects\Dział 11\Cwiczenia Programistyczne\Cw 3\Cw 3\Cw 3.cpp(11,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  vect.cpp
+  Generowanie kodu...
+  Cw 3.vcxproj -> F:\3. Projects\Dział 11\Cwiczenia Programistyczne\Cw 3\x64\Debug\Cw 3.exe

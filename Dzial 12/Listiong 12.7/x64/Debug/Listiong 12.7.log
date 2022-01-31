@@ -1,0 +1,7 @@
+﻿  Listiong 12.7.cpp
+F:\3. Projects\Dział 12\Listiong 12.7\Listiong 12.7.cpp(54,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  string1.cpp
+F:\3. Projects\Dział 12\Listiong 12.7\string1.cpp(19,22): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+F:\3. Projects\Dział 12\Listiong 12.7\string1.cpp(65,22): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Listiong 12.7.vcxproj -> F:\3. Projects\Dział 12\Listiong 12.7\x64\Debug\Listiong 12.7.exe
