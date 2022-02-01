@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Main">
+      <UniqueIdentifier>{5fe6a49e-c35c-48f0-83ee-be96d3dba95f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Board">
+      <UniqueIdentifier>{7867512d-4ba7-45a8-8a71-09bd68129be8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Textures.h">
+      <UniqueIdentifier>{edb644f7-76e1-40f6-927c-d08cdab42dff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Board.h">
+      <UniqueIdentifier>{d5c20ef9-96a6-40cb-987e-ba474736339c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Textures">
+      <UniqueIdentifier>{c136db56-e8db-4e4f-b47f-7259f2b32a27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Entity Component System">
+      <UniqueIdentifier>{009f1d43-ab7f-4044-9c62-496cb69e44c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Entity Component System">
+      <UniqueIdentifier>{37185936-a04c-4c4c-a9f0-e8700921bab2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Vector">
+      <UniqueIdentifier>{f37b77a0-fdb4-44c0-a93c-6600034713dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Vector">
+      <UniqueIdentifier>{53bc8081-04a3-4382-9c05-fb24c0590f42}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SDL_Main.cpp">
+      <Filter>Pliki źródłowe\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="MainBoard.cpp">
+      <Filter>Pliki źródłowe\Board</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Pliki źródłowe\Board</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Pliki źródłowe\Textures</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Pliki źródłowe\Textures</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2D.cpp">
+      <Filter>Pliki źródłowe\Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS.cpp">
+      <Filter>Pliki źródłowe\Entity Component System</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameObject.h">
+      <Filter>Pliki nagłówkowe\Textures.h</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Pliki nagłówkowe\Textures.h</Filter>
+    </ClInclude>
+    <ClInclude Include="MainBoard.h">
+      <Filter>Pliki nagłówkowe\Board.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Pliki nagłówkowe\Board.h</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS.h">
+      <Filter>Pliki nagłówkowe\Entity Component System</Filter>
+    </ClInclude>
+    <ClInclude Include="Components.h">
+      <Filter>Pliki nagłówkowe\Entity Component System</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteComponent.h">
+      <Filter>Pliki nagłówkowe\Entity Component System</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformComponent.h">
+      <Filter>Pliki nagłówkowe\Entity Component System</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2D.h">
+      <Filter>Pliki nagłówkowe\Vector</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyboardController.h">
+      <Filter>Pliki nagłówkowe\Entity Component System</Filter>
+    </ClInclude>
+    <ClInclude Include="ColliderComponent.h">
+      <Filter>Pliki nagłówkowe\Entity Component System</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="TileComponent.h">
+      <Filter>Pliki nagłówkowe\Entity Component System</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Pliki nagłówkowe\Entity Component System</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\square_gray.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="Assets\square_green.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="Assets\square_red.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="Assets\log.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="Assets\grass.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="Assets\stone.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="Assets\stone_poz.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\p16x16.map">
+      <Filter>Pliki zasobów</Filter>
+    </None>
+  </ItemGroup>
+</Project>

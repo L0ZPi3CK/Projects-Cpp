@@ -1,0 +1,2 @@
+F:\3. Projects\SDL2_graphic\x64\Debug\SDL2_graphic.exe
+F:\MyProjects\SDL2_graphic\x64\Debug\SDL2_graphic.exe
