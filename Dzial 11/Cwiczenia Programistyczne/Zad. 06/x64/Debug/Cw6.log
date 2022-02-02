@@ -1,2 +1,7 @@
 ﻿  Cw6.cpp
-  Cw6.vcxproj -> F:\3. Projects\Dział 11\Cwiczenia Programistyczne\Cw6\x64\Debug\Cw6.exe
+  stonewt.cpp
+F:\Projects\Dzial 11\Cwiczenia Programistyczne\Zad. 06\stonewt.cpp(20,17): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+F:\Projects\Dzial 11\Cwiczenia Programistyczne\Zad. 06\stonewt.cpp(71,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+F:\Projects\Dzial 11\Cwiczenia Programistyczne\Zad. 06\stonewt.cpp(90,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Cw6.vcxproj -> F:\Projects\Dzial 11\Cwiczenia Programistyczne\Zad. 06\x64\Debug\Cw6.exe
