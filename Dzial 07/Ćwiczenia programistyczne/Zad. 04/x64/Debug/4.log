@@ -1,0 +1,6 @@
+﻿  4.cpp
+E:\3. Projects\Dział 7\Ćwiczenia programistyczne\4\4.cpp(14,53): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+E:\3. Projects\Dział 7\Ćwiczenia programistyczne\4\4.cpp(14,45): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+E:\3. Projects\Dział 7\Ćwiczenia programistyczne\4\4.cpp(14,36): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+E:\3. Projects\Dział 7\Ćwiczenia programistyczne\4\4.cpp(14,29): warning C4244: "argument": konwersja z "double" do "unsigned int", możliwa utrata danych
+  4.vcxproj -> E:\3. Projects\Dział 7\Ćwiczenia programistyczne\4\x64\Debug\4.exe

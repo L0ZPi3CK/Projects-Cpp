@@ -1,0 +1,5 @@
+﻿  8.cpp
+E:\3. Projects\Dział 7\Ćwiczenia programistyczne\8\8.cpp(8,19): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\3. Projects\Dział 7\Ćwiczenia programistyczne\8\8.cpp(8,8): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „Seasons_arr”
+E:\3. Projects\Dział 7\Ćwiczenia programistyczne\8\8.cpp(9,1): error C2143: błąd składniowy: brakuje „;” przed „{”
+E:\3. Projects\Dział 7\Ćwiczenia programistyczne\8\8.cpp(9,1): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
