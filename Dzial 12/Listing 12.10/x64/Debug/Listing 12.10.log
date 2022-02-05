@@ -1,0 +1,5 @@
+﻿  Listing 12.10.cpp
+F:\Projects\Dzial 12\Listing 12.10\Listing 12.10.cpp(18,25): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  queue.cpp
+  Generowanie kodu...
+  Listing 12.10.vcxproj -> F:\Projects\Dzial 12\Listing 12.10\x64\Debug\Listing 12.10.exe
