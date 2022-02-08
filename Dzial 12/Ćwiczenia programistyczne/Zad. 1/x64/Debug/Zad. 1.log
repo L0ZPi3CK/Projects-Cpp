@@ -1,0 +1,4 @@
+﻿  string1.cpp
+F:\Projects\Dzial 12\Ćwiczenia programistyczne\Zad. 1\string1.cpp(19,22): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+F:\Projects\Dzial 12\Ćwiczenia programistyczne\Zad. 1\string1.cpp(87,22): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Zad. 1.vcxproj -> F:\Projects\Dzial 12\Ćwiczenia programistyczne\Zad. 1\x64\Debug\Zad. 1.exe
