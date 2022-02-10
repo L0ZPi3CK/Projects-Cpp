@@ -5,7 +5,7 @@
 class Brass
 {
 private:
-	std::string fyllName;
+	std::string fullName;
 	long acctNum;
 	double balance;
 public:

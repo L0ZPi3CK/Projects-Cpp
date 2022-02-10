@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="brass.cpp" />
     <ClCompile Include="Listing 13.7.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="brass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
