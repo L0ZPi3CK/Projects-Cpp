@@ -1,0 +1,5 @@
+﻿  Listing 14.4.cpp
+  studenti.cpp
+D:\Projects-Cpp\Dzial 14\Listing 14.4\Listing 14.4\studenti.cpp(36,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Listing 14.4.vcxproj -> D:\Projects-Cpp\Dzial 14\Listing 14.4\x64\Debug\Listing 14.4.exe

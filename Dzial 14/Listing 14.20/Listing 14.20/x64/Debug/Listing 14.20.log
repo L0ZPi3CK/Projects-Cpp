@@ -1,0 +1,23 @@
+﻿  Listing 14.20.cpp
+D:\Projects-Cpp\Dzial 14\Listing 14.20\Listing 14.20\Listing 14.20.cpp(28,59): warning C4244: 'return': conversion from 'V' to 'U', possible loss of data
+          with
+          [
+              V=double
+          ]
+          and
+          [
+              U=int
+          ]
+D:\Projects-Cpp\Dzial 14\Listing 14.20\Listing 14.20\Listing 14.20.cpp(38): message : see reference to function template instantiation 'U beta<double>::blab<int>(U,T)' being compiled
+          with
+          [
+              U=int,
+              T=double
+          ]
+D:\Projects-Cpp\Dzial 14\Listing 14.20\Listing 14.20\Listing 14.20.cpp(38): message : see reference to function template instantiation 'U beta<double>::blab<int>(U,T)' being compiled
+          with
+          [
+              U=int,
+              T=double
+          ]
+  Listing 14.20.vcxproj -> D:\Projects-Cpp\Dzial 14\Listing 14.20\x64\Debug\Listing 14.20.exe
