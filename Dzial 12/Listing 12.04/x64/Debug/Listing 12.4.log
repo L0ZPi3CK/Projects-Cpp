@@ -1,0 +1,6 @@
+﻿  Listing 12.4.cpp
+  string1.cpp
+F:\Projects\Dzial 12\Listing 12.4\string1.cpp(19,22): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+F:\Projects\Dzial 12\Listing 12.4\string1.cpp(65,22): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Listing 12.4.vcxproj -> F:\Projects\Dzial 12\Listing 12.4\x64\Debug\Listing 12.4.exe

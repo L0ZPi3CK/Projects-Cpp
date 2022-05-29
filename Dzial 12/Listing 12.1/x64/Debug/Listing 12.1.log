@@ -1,3 +1,0 @@
-﻿  stringbad.cpp
-F:\3. Projects\Dział 12\Listing 12.1\stringbad.cpp(14,22): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
-  Listing 12.1.vcxproj -> F:\3. Projects\Dział 12\Listing 12.1\x64\Debug\Listing 12.1.exe
