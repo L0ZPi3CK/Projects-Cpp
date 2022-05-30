@@ -9,7 +9,8 @@ Section 2 - First program in cpp
 
 Section 3 - Data  
 
-Section 4 - Complex data types  
+Section 4 - Complex data types
+- Creating and using arrays
 
 Section 5 - Loops and Relational Expressions
 - For loop
