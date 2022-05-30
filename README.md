@@ -11,6 +11,19 @@ Section 3 - Data
 
 Section 4 - Complex data types
 - Creating and using arrays
+- Creating and using C-style character strings
+- Creating and using character strings as String class objects
+- Retrieving character strings using the getline() and get() methods
+- Reading numbers and character data from the input
+- Creating and using structures
+- Creating and using unions
+- Creating and using enum types
+- Creating and using pointers
+- Dynamic memory management using new and delete
+- Creating dynamic arrays
+- Creating dynamic structures
+- Automatic static and dynamic data
+- Vector and array classes
 
 Section 5 - Loops and Relational Expressions
 - For loop
