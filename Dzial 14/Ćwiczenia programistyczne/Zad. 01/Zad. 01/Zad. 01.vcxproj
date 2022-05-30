@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="winec.cpp" />
     <ClCompile Include="Zad. 01.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="winec.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

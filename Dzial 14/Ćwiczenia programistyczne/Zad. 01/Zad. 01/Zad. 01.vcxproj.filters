@@ -18,5 +18,13 @@
     <ClCompile Include="Zad. 01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="winec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="winec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
