@@ -11,8 +11,15 @@ Section 3 - Data
 - Rules for naming variables in c++
 - Built-in integer types in C++: unsigned long, long, unsigned int, int, unsigned short, short, char, unsigned char, signed char and bool
 - Types C++11: unsigned long long and long long
-- 'Climits' header
-- 
+- Header 'climits' 
+- Numeric literals for integer types
+- Using 'const' for symbolic constants
+- Built-in floating point types in C++: float, double and long double
+- Header 'cfloat'
+- Numeric literals for floating point types
+- Arithmetic operators C++
+- Automatic type conversions
+- Forced type conversions 
 
 Section 4 - Complex data types
 - Creating and using arrays
