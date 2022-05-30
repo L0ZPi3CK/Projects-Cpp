@@ -11,7 +11,20 @@ Section 3 - Data
 
 Section 4 - Complex data types  
 
-Section 5 - Loops and Relational Expressions  
+Section 5 - Loops and Relational Expressions
+- For loop
+- Statements and instructions
+- Increment and decrement operators, ++ and --
+- complex assignment operators
+- Complex instructions (blocks)
+- ',' as a operator
+- Comparison operators: >, >=, ==, <=, <, and !=
+- While loop
+- The typedef statement
+- Do while loop
+- Get() method
+- End-of-file detection
+- Nested loops and two-dimensional arrays
 
 Section 6 - Conditional Statements and Logical Operations
 - If statement
