@@ -7,7 +7,12 @@ Section 1 - Introduction
 
 Section 2 - First program in cpp  
 
-Section 3 - Data  
+Section 3 - Data
+- Rules for naming variables in c++
+- Built-in integer types in C++: unsigned long, long, unsigned int, int, unsigned short, short, char, unsigned char, signed char and bool
+- Types C++11: unsigned long long and long long
+- 'Climits' header
+- 
 
 Section 4 - Complex data types
 - Creating and using arrays
