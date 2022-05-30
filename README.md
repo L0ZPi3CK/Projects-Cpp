@@ -24,7 +24,7 @@ Section 13 - Classes & Inheritance
 - Static and dynamic binding
 - Abstract base classes
 - Purely virtual methods
-<h1>Section 14 - Multiple code usage in C++</h1>
+Section 14 - Multiple code usage in C++
 - Has-a Relationship
 - Classes with component objects (containment)
 - Template of the valarray class
