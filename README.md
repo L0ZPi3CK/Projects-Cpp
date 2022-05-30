@@ -24,8 +24,23 @@ Section 9 - Memory model and Namespaces
 Section 10 - Objects and Classes 
 
 Section 11 - Usage of Classes  
+- Operator overloading
+- Friend Functions
+- Overloading the << operator for output operations
+- Components representing the state of an object
+- Using the rand() function to generate random values
+- Automatic conversion and casting of class types
+- Class conversion functions
 
 Section 12 - Classes and dynamic memory allocation  
+- Using dynamic memory allocation for class components
+- Implicit and explicit copy constructors
+- Assignment Operators Overloading
+- Using 'new' in constructors
+- Using 'static' in class components
+- Using the local version of the 'new' operator in objects
+- Use of object pointers
+- Implementation of abstract data type (ADT) "queue"
 
 Section 13 - Classes & Inheritance
 - Is-a Relationship
