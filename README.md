@@ -5,7 +5,17 @@ I teach myself from stephen prata's book ,, Język C++. Szkoła programowania. W
 
 Section 1 - Introduction
 
-Section 2 - First program in cpp  
+Section 2 - First program in cpp
+- Program development in c++
+- General form of a program in c++
+- #include directive
+- Function main()
+- Using the 'cout' object to output data
+- Comments in C++ programs
+- Usage of 'endl'
+- Declaring and using variables
+- Using the 'cin' object for input data
+- Defining and using simple functions
 
 Section 3 - Data
 - Rules for naming variables in c++
