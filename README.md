@@ -154,3 +154,5 @@ Section 14 - Multiple code usage in C++
 - Creating class templates
 - Using class templates
 - Template specialization
+
+I'm still learning sections 12-14. I've read theory, but I haven't practiced it yet.
