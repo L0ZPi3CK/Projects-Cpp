@@ -16,7 +16,16 @@ Section 5 - Loops and Relational Expressions
 Section 6 - Conditional Statements and Logical Operations  
 
 Section 7 - Functions - Program components
-- 
+- Function basics in c++
+- Function prototypes
+- Passing parameters to functions by value
+- Createng functions that process arrays
+- Using constant pointers as parameters
+- Creating functions that process character strings
+- Creating functions that process character structures
+- Create functions to process string class objects
+- Functions that call themselves (recursion)
+- Pointers to functions
 
 Section 8 - Functions - Advanced
 - Inline functions
