@@ -15,7 +15,8 @@ Section 5 - Loops and Relational Expressions
 
 Section 6 - Conditional Statements and Logical Operations  
 
-Section 7 - Functions - Program components  
+Section 7 - Functions - Program components
+- 
 
 Section 8 - Functions - Advanced
 - Inline functions
