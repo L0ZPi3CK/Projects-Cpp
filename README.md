@@ -17,7 +17,14 @@ Section 6 - Conditional Statements and Logical Operations
 
 Section 7 - Functions - Program components  
 
-Section 8 - Functions - Advanced  
+Section 8 - Functions - Advanced
+- Inline functions
+- References to variables
+- Passing parameters to functions via references- 
+- Default parameters
+- Function overloading
+- Function templates
+- Function templates specializations
 
 Section 9 - Memory model and Namespaces
 - Linking parts of the program (Mostly including header file)
