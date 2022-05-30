@@ -24,7 +24,8 @@ I teach myself from stephen prata's book ,, Język C++. Szkoła programowania. W
 - Static and dynamic binding
 - Abstract base classes
 - Purely virtual methods
-#Section 14 - Multiple code usage in C++
+
+Section 14 - Multiple code usage in C++
 - Has-a Relationship
 - Classes with component objects (containment)
 - Template of the valarray class
