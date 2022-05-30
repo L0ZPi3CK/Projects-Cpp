@@ -19,9 +19,26 @@ Section 7 - Functions - Program components
 
 Section 8 - Functions - Advanced  
 
-Section 9 - Memory model and Namespaces  
+Section 9 - Memory model and Namespaces
+- Linking parts of the program (Mostly including header file)
+- Assignment categories, coverage and linking of program objects
+- Local version of the 'new' operator
+- Namespaces
 
 Section 10 - Objects and Classes 
+- Procedural and Object-oriented programming
+- Concept of classes
+- Defining and implementing classes
+- Access to classes
+- Class components
+- Class methods
+- Creating and using class objects
+- Class constructors and deconstructors
+- Methods with 'const'
+- Pointer 'this'
+- Creating arrays of objects
+- Class Range
+- Abstract data types
 
 Section 11 - Usage of Classes  
 - Operator overloading
