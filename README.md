@@ -13,7 +13,16 @@ Section 4 - Complex data types
 
 Section 5 - Loops and Relational Expressions  
 
-Section 6 - Conditional Statements and Logical Operations  
+Section 6 - Conditional Statements and Logical Operations
+- If statement
+- If else statement
+- Logical operators &&, ||, !
+- Library 'cctype'
+- Conditional ? : operator
+- Switch statement
+- Continue and break statements
+- Reading numbers in a loop
+- Basic file input/output instructions
 
 Section 7 - Functions - Program components
 - Function basics in c++
