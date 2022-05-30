@@ -16,4 +16,21 @@ Section 10 - Objects and Classes
 Section 11 - Usage of Classes  
 Section 12 - Classes and dynamic memory allocation  
 Section 13 - Classes & Inheritance
-Section 14 - Multiple code usage in C++
+- Is-a Relationship
+- Public inheritance
+- Protected Access
+- Constructor initialization list
+- Virtual methods
+- Static and dynamic binding
+- Abstract base classes
+- Purely virtual methods
+<h1>Section 14 - Multiple code usage in C++</h1>
+- Has-a Relationship
+- Classes with component objects (containment)
+- Template of the valarray class
+- Private and Protected inheritance
+- Multiple inheritance
+- Virtual base classes
+- Creating class templates
+- Using class templates
+- Template specialization
