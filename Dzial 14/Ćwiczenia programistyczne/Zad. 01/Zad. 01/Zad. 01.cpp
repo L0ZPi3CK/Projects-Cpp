@@ -15,21 +15,21 @@ int main(void)
     int yrs;
     cin >> yrs;
 
-    // Wine holding(lab, yrs);  // zapisuje nazwe, liczbe rocznikow i przekazuje informacje o tej liczbie do tablicy
-    // holding.GetBottles();    // pobiera dane o roczniku i liczbie butelek
-    // holding.Show();          // wyswietla zawartosc obiektu
+    Wine holding(lab, yrs);     // zapisuje nazwe, liczbe rocznikow i przekazuje informacje o tej liczbie do tablicy
+    holding.GetBottles();       // pobiera dane o roczniku i liczbie butelek
+    holding.Show();             // wyswietla zawartosc obiektu
 
     const int YRS = 3;
     int y[YRS] = { 1993, 1995, 1998 };
     int b[YRS] = { 48, 60, 72 };
 
     // tworzy nowy obiekt, inicjalizuje za pomoca danych w tablicach y oraz b
-    // Wine more("Gushing Grape Red", YRS, y, b);
+    Wine more("Gushing Grape Red", YRS, y, b);
     
-    // more.Show();
-    //cout << "Łaczna liczba butelek wina " << more.Label()   // uzywa metody Label()
-    //    << ": " << more.Sum() << endl;  // uzywa metody sum
-    cout << "Koniec";
+    more.Show();
+    cout << "Laczna liczba butelek wina " << more.Label() // uzywa metody Label()
+        << ": " << more.Sum() << endl;                    // uzywa metody sum
+    cout << "\nKoniec";
 
     return 0;
 }
