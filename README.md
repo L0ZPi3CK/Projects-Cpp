@@ -5,12 +5,47 @@ I teach myself from stephen prata's book ,, Język C++. Szkoła programowania. W
 
 Section 1 - Introduction
 
-Section 2 - First program in cpp  
+Section 2 - First program in cpp
+- Program development in c++
+- General form of a program in c++
+- #include directive
+- Function main()
+- Using the 'cout' object to output data
+- Comments in C++ programs
+- Usage of 'endl'
+- Declaring and using variables
+- Using the 'cin' object for input data
+- Defining and using simple functions
 
-Section 3 - Data  
+Section 3 - Data
+- Rules for naming variables in c++
+- Built-in integer types in C++: unsigned long, long, unsigned int, int, unsigned short, short, char, unsigned char, signed char and bool
+- Types C++11: unsigned long long and long long
+- Header 'climits' 
+- Numeric literals for integer types
+- Using 'const' for symbolic constants
+- Built-in floating point types in C++: float, double and long double
+- Header 'cfloat'
+- Numeric literals for floating point types
+- Arithmetic operators C++
+- Automatic type conversions
+- Forced type conversions 
 
 Section 4 - Complex data types
 - Creating and using arrays
+- Creating and using C-style character strings
+- Creating and using character strings as String class objects
+- Retrieving character strings using the getline() and get() methods
+- Reading numbers and character data from the input
+- Creating and using structures
+- Creating and using unions
+- Creating and using enum types
+- Creating and using pointers
+- Dynamic memory management using new and delete
+- Creating dynamic arrays
+- Creating dynamic structures
+- Automatic static and dynamic data
+- Vector and array classes
 
 Section 5 - Loops and Relational Expressions
 - For loop
@@ -119,3 +154,5 @@ Section 14 - Multiple code usage in C++
 - Creating class templates
 - Using class templates
 - Template specialization
+
+I'm still learning sections 12-14. I went through the sample programs from the book, but I didn't use this knowledge in any of my programs.
