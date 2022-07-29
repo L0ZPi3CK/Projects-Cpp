@@ -1,5 +1,4 @@
 #include "Person.h"
-#include <iostream>
 
 void Person::Show()
 {

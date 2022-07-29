@@ -1,6 +1,9 @@
 ﻿  BadDude.cpp
 D:\Projects-Cpp\Dzial 14\Ćwiczenia programistyczne\Zad. 04\Zad. 04\BadDude.h(15,1): warning C4250: 'BadDude': inherits 'Gunslinger::Gunslinger::Set' via dominance
 D:\Projects-Cpp\Dzial 14\Ćwiczenia programistyczne\Zad. 04\Zad. 04\Gunslinger.h(13): message : see declaration of 'Gunslinger::Set'
+  Gunslinger.cpp
+  Person.cpp
+  PokerPlayer.cpp
   Zad. 04.cpp
 D:\Projects-Cpp\Dzial 14\Ćwiczenia programistyczne\Zad. 04\Zad. 04\BadDude.h(15,1): warning C4250: 'BadDude': inherits 'Gunslinger::Gunslinger::Set' via dominance
 D:\Projects-Cpp\Dzial 14\Ćwiczenia programistyczne\Zad. 04\Zad. 04\Gunslinger.h(13): message : see declaration of 'Gunslinger::Set'

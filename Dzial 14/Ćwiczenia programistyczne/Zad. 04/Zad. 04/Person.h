@@ -13,8 +13,9 @@ public:
 	Person(std::string name, std::string surname)
 		: name(name), surname(surname){}
 
-	virtual ~Person() = 0;
 	virtual void Show();		// Shows name and surname
 	virtual void Set();			// Sets name and surname
+	virtual ~Person() = 0;
+
 };
 
