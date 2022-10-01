@@ -1,0 +1,7 @@
+﻿  Listing 16.03.cpp
+E:\Projects-Cpp\Dzial 16\Listing 16.03\Listing 16.03.cpp(26,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Projects-Cpp\Dzial 16\Listing 16.03\Listing 16.03.cpp(35,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects-Cpp\Dzial 16\Listing 16.03\Listing 16.03.cpp(57,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects-Cpp\Dzial 16\Listing 16.03\Listing 16.03.cpp(70,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects-Cpp\Dzial 16\Listing 16.03\Listing 16.03.cpp(75,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Listing 16.03.vcxproj -> E:\Projects-Cpp\Dzial 16\Listing 16.03\x64\Debug\Listing 16.03.exe
