@@ -1,0 +1,3 @@
+﻿  Listing 16.08.cpp
+E:\Projects-Cpp\Dzial 16\Listing 16.08\Listing 16.08.cpp(25,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Listing 16.08.vcxproj -> E:\Projects-Cpp\Dzial 16\Listing 16.08\x64\Debug\Listing 16.08.exe
